@@ -1,12 +1,10 @@
-background-color: radial-gradient(at 97% 40%, rgb(52, 152, 219), rgb(155, 89, 182));
 
-html {
-    height: 100%;
-}
+
+
 body {
 
   
-  
+  background-color: radial-gradient(at 97% 40%, rgb(52, 152, 219), rgb(155, 89, 182));
  
   
         background-size: cover;
